@@ -3,7 +3,6 @@ import book from '../../public/books.jpg'
 
 
 const Cards = ({item}) => {
-    console.log(item);
   return (
      <>
     <div className='mt-5 flex items-center justify-evenly'>
